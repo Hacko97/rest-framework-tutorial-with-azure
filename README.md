@@ -1,4 +1,4 @@
-# REST framework tutorial with Azure
+# AzureGithub - REST framework tutorial
 
 This is my fork of the example code from the [Django REST Tramework tutorial][tut] code
 with explanation of how to deploy with Azure for part of [Accelerate web development with Azure and GitHub](https://aka.ms/azurewebinar-azure-and-github) webinar demos.
